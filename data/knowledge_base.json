@@ -1,0 +1,42 @@
+[
+  {
+    "id": "quantum_fund_basics",
+    "content": "The Quantum Investment Fund is a diversified equity fund with a focus on technology stocks. Annual management fee is 0.75%. Front-load fee is 2%. Minimum investment is $10,000. The fund invests primarily in large-cap technology companies and has shown consistent performance over the past 5 years. Expense ratio is 0.95% including all fees. No redemption fees apply. The fund distributes dividends quarterly.",
+    "metadata": {"source": "Fund Prospectus", "date": "2024-01-01", "type": "product_info"}
+  },
+  {
+    "id": "quantum_fund_performance",
+    "content": "The Quantum Investment Fund historical performance: 5-year average return 12.3%, 3-year average return 15.1%, 1-year return 8.7%. The fund outperformed its benchmark (S&P 500 Technology Index) by an average of 2.1% annually over the past 5 years. Current yield is 1.8%. Asset allocation: 85% US large-cap tech stocks, 10% international tech stocks, 5% cash and short-term bonds.",
+    "metadata": {"source": "Performance Report", "date": "2024-12-01", "type": "performance_data"}
+  },
+  {
+    "id": "quantum_fund_operations",
+    "content": "The Quantum Fund investment sectors include cloud computing (25%), artificial intelligence (20%), semiconductors (15%), software (15%), consumer electronics (10%), and other technology sectors (15%). Minimum holding period is 90 days. Annual maintenance fee is $25 for accounts under $50,000. No load fees for investments over $100,000. Investment management is provided by Quantum Asset Management LLC.",
+    "metadata": {"source": "Fund Operations Manual", "date": "2024-06-01", "type": "operational_info"}
+  },
+  {
+    "id": "ira_withdrawal_rules",
+    "content": "Early withdrawal from traditional IRA before age 59½ incurs a 10% penalty plus income tax on the withdrawn amount. Exceptions include first-time home purchase up to $10,000, qualified education expenses, unreimbursed medical expenses exceeding 7.5% of AGI, and certain hardships. Roth IRA contributions can be withdrawn penalty-free at any time, but earnings are subject to penalties and taxes if withdrawn early unless exceptions apply.",
+    "metadata": {"source": "IRS Tax Guide", "date": "2024-01-01", "type": "tax_info"}
+  },
+  {
+    "id": "retirement_contribution_limits",
+    "content": "2024 retirement account contribution limits: Traditional and Roth IRA maximum $7,000 ($8,000 if age 50+). 401(k) employee contribution limit $23,000 ($30,500 with catch-up). Combined employer-employee 401(k) limit $69,000 ($76,500 with catch-up). Income limits for Roth IRA: phase-out begins at $138,000 (single) or $218,000 (married filing jointly).",
+    "metadata": {"source": "IRS Guidelines", "date": "2024-01-01", "type": "contribution_limits"}
+  },
+  {
+    "id": "tax_implications",
+    "content": "Capital gains in retirement accounts grow tax-deferred (traditional) or tax-free (Roth). IRA withdrawals after age 59½: traditional IRA withdrawals taxed as ordinary income, Roth IRA withdrawals generally tax-free if account is 5+ years old. Required minimum distributions (RMDs) begin at age 73 for traditional IRAs and 401(k)s. Early 401(k) withdrawal penalty is 10% plus ordinary income tax.",
+    "metadata": {"source": "Tax Planning Guide", "date": "2024-01-01", "type": "tax_planning"}
+  },
+  {
+    "id": "compliance_policies",
+    "content": "Investment advisors must not provide specific stock price predictions, guarantee returns, or offer insider information. All investment advice must include appropriate risk disclosures. Clients should be referred to licensed financial advisors for personalized investment recommendations. High-risk queries about market manipulation, tax evasion, or unregistered securities must be escalated immediately.",
+    "metadata": {"source": "Compliance Manual", "date": "2024-01-01", "type": "compliance"}
+  },
+  {
+    "id": "general_investment_concepts",
+    "content": "Compound interest is earnings on both principal and previously earned interest. Diversification reduces risk by spreading investments across different asset classes. Dollar-cost averaging involves investing fixed amounts regularly regardless of market conditions. Asset allocation is the distribution of investments among different asset categories. Emergency funds should cover 3-6 months of expenses in liquid, low-risk accounts.",
+    "metadata": {"source": "Investment Education", "date": "2024-01-01", "type": "educational"}
+  }
+]

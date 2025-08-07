@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: "Your"
+    family-names: "Name"
+    email: "your.email@institution.edu"
+    affiliation: "Your Institution"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Multi-Layered LLM Hallucination Mitigation Framework"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2024-01-01
+url: "https://github.com/yourusername/multi-layered-llm-hallucination-mitigation"
+repository-code: "https://github.com/yourusername/multi-layered-llm-hallucination-mitigation"
+abstract: >-
+  A comprehensive framework for mitigating hallucinations in Large Language Models
+  through integrated prompt engineering, retrieval-augmented generation, and
+  confidence-based escalation mechanisms. Demonstrates significant improvements
+  in accuracy and reliability for high-stakes applications.
+keywords:
+  - "Large Language Models"
+  - "Hallucination Mitigation" 
+  - "Prompt Engineering"
+  - "Retrieval Augmented Generation"
+  - "AI Safety"
+  - "Production Systems"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - given-names: "Your"
+      family-names: "Name"
+      email: "your.email@institution.edu"
+      affiliation: "Your Institution"
+  title: "A Multi-Layered Approach to Mitigating LLM Hallucinations in Production Systems"
+  journal: "Journal Name"
+  year: 2024
+  url: "https://arxiv.org/abs/XXXX.XXXXX"

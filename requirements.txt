@@ -1,0 +1,29 @@
+# Core dependencies
+openai>=1.99.0
+anthropic>=0.39.0
+langchain>=0.3.0
+sentence-transformers>=2.5.0
+chromadb>=0.4.0
+
+# Evaluation tools
+selfcheckgpt>=0.1.0
+transformers>=4.36.0
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Benchmarking
+datasets>=2.14.0
+evaluate>=0.4.0
+
+# Utils
+pyyaml>=6.0
+tqdm>=4.66.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+
+# Development
+pytest>=7.4.0
+black>=23.9.0
+flake8>=6.1.0

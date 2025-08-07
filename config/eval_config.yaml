@@ -1,0 +1,75 @@
+# Evaluation Configuration
+
+# API Keys (set as environment variables)
+api_keys:
+  openai_api_key: ${OPENAI_API_KEY}
+  anthropic_api_key: ${ANTHROPIC_API_KEY}
+
+# Model Configuration
+models:
+  baselines:
+    gpt4:
+      model_name: "gpt-4-turbo-preview"
+      temperature: 0.0
+      max_tokens: 1024
+    claude:
+      model_name: "claude-3-sonnet-20240229"
+      temperature: 0.0
+      max_tokens: 1024
+  
+  framework:
+    base_model: "gpt-4-turbo-preview"
+    temperature: 0.0
+    max_tokens: 1024
+    
+# Framework Configuration
+framework:
+  prompt_engineering:
+    few_shot_examples: 3
+    role_prompt: "You are a helpful AI assistant focused on providing accurate, factual information."
+    cot_enabled: true
+    
+  rag:
+    embedding_model: "text-embedding-ada-002"
+    chunk_size: 500
+    chunk_overlap: 100
+    top_k: 5
+    similarity_threshold: 0.75
+    
+  agent:
+    confidence_thresholds:
+      general: 0.75
+      financial: 0.80
+      compliance: 0.85
+    escalation_enabled: true
+
+# Evaluation Settings
+evaluation:
+  test_domains:
+    - general_knowledge
+    - financial_services
+    - edge_cases
+    
+  batch_size: 10
+  num_samples_per_query: 3  # For SelfCheckGPT
+  
+  benchmarks:
+    halogen:
+      enabled: true
+      dataset_path: "data/benchmarks/halogen"
+    truthfulqa:
+      enabled: true
+      dataset_path: "data/benchmarks/truthfulqa"
+      
+  metrics:
+    - hallucination_rate
+    - factual_consistency
+    - response_quality
+    - confidence_calibration
+
+# Output Configuration
+output:
+  results_dir: "results"
+  save_raw_responses: true
+  generate_report: true
+  visualization: true
