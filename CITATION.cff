@@ -16,8 +16,8 @@ title: "Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes 
 version: 1.0.0
 doi: 10.3390/computers
 date-released: 2025-01-09
-url: "https://github.com/yourusername/multi-layered-llm-hallucination-mitigation"
-repository-code: "https://github.com/yourusername/multi-layered-llm-hallucination-mitigation"
+url: "https://github.com/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications"
+repository-code: "https://github.com/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications"
 abstract: >-
   Large language models (LLMs) now match or exceed human performance on many open-ended 
   language tasks, yet they continue to produce fluent but incorrect statements—a failure 

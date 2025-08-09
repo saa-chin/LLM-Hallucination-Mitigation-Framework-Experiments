@@ -1,6 +1,6 @@
 # Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/multi-layered-llm-hallucination-mitigation/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)
 [![Paper](https://img.shields.io/badge/Paper-Computers_2025-red)](https://doi.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
@@ -36,7 +36,7 @@ This repository implements a comprehensive framework that layers multiple mitiga
 
 We provide a fully interactive Jupyter notebook that you can run directly in Google Colab:
 
-1. **[Open the Interactive Demo](https://colab.research.google.com/github/yourusername/multi-layered-llm-hallucination-mitigation/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)**
+1. **[Open the Interactive Demo](https://colab.research.google.com/github/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)**
 2. Add your OpenAI API key when prompted
 3. Run the cells to see the framework in action
 4. Try your own queries and experiment with the settings
@@ -107,8 +107,8 @@ If you prefer to run locally instead of using Colab:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multi-layered-llm-hallucination-mitigation.git
-cd multi-layered-llm-hallucination-mitigation
+git clone https://github.com/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications.git
+cd Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications
 
 # Install dependencies
 pip install -r requirements.txt
@@ -279,7 +279,7 @@ For technical issues, please open a GitHub issue.
 
 ## Quick Links
 
-- **[Interactive Demo (Colab)](https://colab.research.google.com/github/yourusername/multi-layered-llm-hallucination-mitigation/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)** - Start here!
+- **[Interactive Demo (Colab)](https://colab.research.google.com/github/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)** - Start here!
 - **[Paper](https://doi.org/)** - Full research paper
-- **[Issues](https://github.com/yourusername/multi-layered-llm-hallucination-mitigation/issues)** - Report bugs or request features
-- **[Discussions](https://github.com/yourusername/multi-layered-llm-hallucination-mitigation/discussions)** - Community discussions
+- **[Issues](https://github.com/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications/issues)** - Report bugs or request features
+- **[Discussions](https://github.com/saa-chin/Multi-Layered-Framework-for-LLM-Hallucination-Mitigation-in-High-Stakes-Applications/discussions)** - Community discussions
