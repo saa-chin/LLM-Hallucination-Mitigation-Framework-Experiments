@@ -2,38 +2,62 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 authors:
-  - given-names: "Your"
-    family-names: "Name"
-    email: "your.email@institution.edu"
-    affiliation: "Your Institution"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Multi-Layered LLM Hallucination Mitigation Framework"
+  - given-names: "Sachin"
+    family-names: "Hiriyanna"
+    email: "sachinh@ieee.org"
+    affiliation: "Navan Inc."
+    orcid: "https://orcid.org/0000-0003-1091-970X"
+  - given-names: "Wenbing"
+    family-names: "Zhao"
+    email: "wenbing@ieee.org"
+    affiliation: "Cleveland State University"
+    orcid: "https://orcid.org/0000-0002-3202-1127"
+title: "Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications"
 version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX
-date-released: 2024-01-01
+doi: 10.3390/computers
+date-released: 2025-01-09
 url: "https://github.com/yourusername/multi-layered-llm-hallucination-mitigation"
 repository-code: "https://github.com/yourusername/multi-layered-llm-hallucination-mitigation"
 abstract: >-
-  A comprehensive framework for mitigating hallucinations in Large Language Models
-  through integrated prompt engineering, retrieval-augmented generation, and
-  confidence-based escalation mechanisms. Demonstrates significant improvements
-  in accuracy and reliability for high-stakes applications.
+  Large language models (LLMs) now match or exceed human performance on many open-ended 
+  language tasks, yet they continue to produce fluent but incorrect statements—a failure 
+  mode widely referred to as hallucination. In low-stakes settings this may be tolerable; 
+  in regulated or safety-critical domains such as financial services, compliance review, 
+  and client decision support, it is not. This framework implements an integrated mitigation 
+  approach that layers complementary controls rather than relying on any single technique. 
+  The framework combines structured prompt design, retrieval-augmented generation (RAG) with 
+  verifiable evidence sources, and targeted fine-tuning aligned to domain truth constraints. 
+  Evaluation demonstrates 51% overall accuracy improvement over GPT-4 baseline with complete 
+  hallucination prevention in tested scenarios.
 keywords:
   - "Large Language Models"
-  - "Hallucination Mitigation" 
+  - "LLM Hallucination" 
   - "Prompt Engineering"
-  - "Retrieval Augmented Generation"
-  - "AI Safety"
-  - "Production Systems"
+  - "Few-Shot Prompting"
+  - "Role-Playing"
+  - "Chain-of-Thought Reasoning"
+  - "Retrieval-Augmented Generation"
+  - "Agent"
+  - "Financial Services"
+  - "AI Security"
+  - "Production Deployment"
 license: MIT
 preferred-citation:
   type: article
   authors:
-    - given-names: "Your"
-      family-names: "Name"
-      email: "your.email@institution.edu"
-      affiliation: "Your Institution"
-  title: "A Multi-Layered Approach to Mitigating LLM Hallucinations in Production Systems"
-  journal: "Journal Name"
-  year: 2024
-  url: "https://arxiv.org/abs/XXXX.XXXXX"
+    - given-names: "Sachin"
+      family-names: "Hiriyanna"
+      email: "sachinh@ieee.org"
+      affiliation: "Navan Inc."
+      orcid: "https://orcid.org/0000-0003-1091-970X"
+    - given-names: "Wenbing"
+      family-names: "Zhao"
+      email: "wenbing@ieee.org"
+      affiliation: "Cleveland State University"
+      orcid: "https://orcid.org/0000-0002-3202-1127"
+  title: "Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications: A Tutorial"
+  journal: "Computers"
+  publisher: "MDPI"
+  year: 2025
+  doi: "10.3390/computers"
+  url: "https://doi.org/10.3390/computers"

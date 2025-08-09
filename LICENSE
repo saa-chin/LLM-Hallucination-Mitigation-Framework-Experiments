@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Multi-Layered LLM Hallucination Mitigation Framework
+Copyright (c) 2025 Sachin Hiriyanna and Wenbing Zhao
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,11 +25,13 @@ SOFTWARE.
 If you use this software in your research, please cite our paper:
 
 ```
-@article{multilayered_hallucination_2024,
-    title={A Multi-Layered Approach to Mitigating LLM Hallucinations in Production Systems},
-    author={Your Name},
-    journal={Journal Name},
-    year={2024},
+@article{hiriyanna2025multilayered,
+    title={Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications: A Tutorial},
+    author={Hiriyanna, Sachin and Zhao, Wenbing},
+    journal={Computers},
+    publisher={MDPI},
+    year={2025},
+    doi={10.3390/computers},
     url={https://github.com/yourusername/multi-layered-llm-hallucination-mitigation}
 }
 ```
