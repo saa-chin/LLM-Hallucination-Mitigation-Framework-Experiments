@@ -32,6 +32,6 @@ If you use this software in your research, please cite our paper:
     publisher={MDPI},
     year={2025},
     doi={10.3390/computers},
-    url={https://github.com/yourusername/multi-layered-llm-hallucination-mitigation}
+    url={https://github.com/saa-chin/LLM-Hallucination-Mitigation-Framework-Experiments}
 }
 ```
