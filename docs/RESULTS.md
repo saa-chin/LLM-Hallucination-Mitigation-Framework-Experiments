@@ -116,12 +116,17 @@ These findings suggest the multi-layered approach successfully addresses key cha
 ## Recommended Citation Format
 
 ```
-@inproceedings{hiriyanna2025multilayer,
-  title={Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications},
+@article{hiriyanna2025multilayered,
+  title={Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications: A Tutorial},
   author={Hiriyanna, Sachin and Zhao, Wenbing},
-  booktitle={Proceedings of [Conference]},
+  journal={Computers},
+  volume={14},
+  number={8},
+  pages={332},
   year={2025},
-  note={Preliminary evaluation on 100 queries demonstrates 51\% overall accuracy improvement with effective hallucination prevention in financial domain applications.}
+  publisher={MDPI},
+  doi={10.3390/computers14080332},
+  url={https://doi.org/10.3390/computers14080332}
 }
 ```
 
