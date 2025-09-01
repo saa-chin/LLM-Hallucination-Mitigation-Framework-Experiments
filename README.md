@@ -1,7 +1,7 @@
 # Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saa-chin/LLM-Hallucination-Mitigation-Framework-Experiments/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)
-[![Paper](https://img.shields.io/badge/Paper-Computers_2025-red)](https://doi.org/)
+[![Paper](https://img.shields.io/badge/Paper-Computers_2025-red)](https://doi.org/10.3390/computers14080332)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
 
@@ -161,8 +161,10 @@ DOMAIN_CONFIGS = {
 ## Paper Reference
 
 **Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications: A Tutorial**  
-*Sachin Hiriyanna (Navan Inc.) and Wenbing Zhao (Cleveland State University)*  
-*Computers, MDPI, 2025*
+*Sachin Hiriyanna¹ (Navan Inc.) and Wenbing Zhao²,* (Cleveland State University)*  
+*¹Navan Inc., Palo Alto, CA 94306, USA*  
+*²Department of Electrical and Computer Engineering, Cleveland State University, Cleveland, OH 44115, USA*  
+*Computers 2025, 14(8), 332; Published: 16 August 2025*
 
 If you use this framework in your research or production systems, please cite:
 ```bibtex
@@ -170,9 +172,13 @@ If you use this framework in your research or production systems, please cite:
     title={Multi-Layered Framework for LLM Hallucination Mitigation in High-Stakes Applications: A Tutorial},
     author={Hiriyanna, Sachin and Zhao, Wenbing},
     journal={Computers},
-    publisher={MDPI},
+    volume={14},
+    number={8},
+    pages={332},
     year={2025},
-    doi={10.3390/computers}
+    publisher={MDPI},
+    doi={10.3390/computers14080332},
+    url={https://doi.org/10.3390/computers14080332}
 }
 ```
 
@@ -280,6 +286,6 @@ For technical issues, please open a GitHub issue.
 ## Quick Links
 
 - **[Interactive Demo (Colab)](https://colab.research.google.com/github/saa-chin/LLM-Hallucination-Mitigation-Framework-Experiments/blob/main/LLM_Hallucination_Mitigation_Demo.ipynb)** - Start here!
-- **[Paper](https://doi.org/)** - Full research paper
+- **[Paper](https://doi.org/10.3390/computers14080332)** - Full research paper
 - **[Issues](https://github.com/saa-chin/LLM-Hallucination-Mitigation-Framework-Experiments/issues)** - Report bugs or request features
 - **[Discussions](https://github.com/saa-chin/LLM-Hallucination-Mitigation-Framework-Experiments/discussions)** - Community discussions
